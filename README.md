@@ -10,11 +10,4 @@ Skills:  REACT / JS / HTML / CSS / Tailwind CSS
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with Api Development 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: +8801773440961 (WhatsApp) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/torikulse//)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torikulse)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=torikulse&show_icons=true)  
-
+- 📫 How to reach me: +8801773440961 (WhatsApp)/ https://www.linkedin.com/in/torikulse/
