@@ -6,7 +6,7 @@ I enjoy staying updated with the latest web design trends, learning new tools, a
 
 Skills:  REACT / JS / HTML / CSS / Tailwind CSS
 
-- 🔭 I’m currently working on digitalhomeit 
+
 - 🌱 I’m currently learning React 
 - 🤔 I’m looking for help with Api Development 
 - 💬 Ask me about Web Development 
